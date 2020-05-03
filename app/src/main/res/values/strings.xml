@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="checkBox">com.example.Testapp.checkBox</string>
+    <string name="UsernameEditText">com.example.Testapp.UsernameEditText</string>
+    <string name="passwordEditText">com.example.Testapp.passwordEditText</string>
+
+</resources>
